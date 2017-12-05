@@ -1,0 +1,1 @@
+Hello, Please consider visuals.py because as I'm using Python 3. I updated that file to fix the compilation errors (just adding round brackets whenever calling the print function) and run the code.
